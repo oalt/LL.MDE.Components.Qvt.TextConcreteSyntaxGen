@@ -21,22 +21,22 @@
     </ItemGroup>
     <ItemGroup>
       <Reference Include="NMF.Collections">
-        <HintPath>..\libs\NMF.Collections.dll</HintPath>
+        <HintPath>..\..\..\libs\NMF.Collections.dll</HintPath>
       </Reference>
       <Reference Include="NMF.Expressions">
-        <HintPath>..\libs\NMF.Expressions.dll</HintPath>
+        <HintPath>..\..\..\libs\NMF.Expressions.dll</HintPath>
       </Reference>
       <Reference Include="NMF.Expressions.Linq">
-        <HintPath>..\libs\NMF.Expressions.Linq.dll</HintPath>
+        <HintPath>..\..\..\libs\NMF.Expressions.Linq.dll</HintPath>
       </Reference>
       <Reference Include="NMF.Models">
-        <HintPath>..\libs\NMF.Models.dll</HintPath>
+        <HintPath>..\..\..\libs\NMF.Models.dll</HintPath>
       </Reference>
       <Reference Include="NMF.Serialization">
-        <HintPath>..\libs\NMF.Serialization.dll</HintPath>
+        <HintPath>..\..\..\libs\NMF.Serialization.dll</HintPath>
       </Reference>
       <Reference Include="NMF.Utilities">
-        <HintPath>..\libs\NMF.Utilities.dll</HintPath>
+        <HintPath>..\..\..\libs\NMF.Utilities.dll</HintPath>
       </Reference>
     </ItemGroup>
     
